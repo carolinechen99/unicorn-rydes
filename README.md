@@ -60,3 +60,7 @@ Create a Kinesis Data Firehose Delivery Stream with the destination set as an Am
 ### Step 8: Connect the Analytics Application to the Firehose Delivery Stream
 
 Connect the Kinesis Data Analytics application to the Firehose Delivery Stream by adding it as the destination for the SQL query results. This allows the processed data to be continuously delivered to the S3 bucket for storage and further analysis.
+
+### References
+
+- [Serverless Data Processing on Kinesis](https://catalog.us-east-1.prod.workshops.aws/workshops/76d4b4eb-bff7-40c6-a925-7f101ad3bd43/en-US/kinesis)
