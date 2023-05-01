@@ -39,7 +39,7 @@ Navigate to the Kinesis console and select "Create data stream". Provide a name 
 
 ### Step 3: Set up a Data Producer
 
-Set up a data producer using the provided Python script to send data to the Kinesis Data Stream. Install the required AWS SDK for Python (Boto3) and configure AWS credentials for authentication.
+Set up a data producer using the provided script to send data to the Kinesis Data Stream. Install the required AWS SDK and configure AWS credentials for authentication.
 
 ### Step 4: Start Sending Data to the Stream
 
@@ -52,6 +52,7 @@ Create a Kinesis Data Analytics application in the Kinesis console. Set up the s
 ### Step 6: Write a SQL Query for Real-Time Data Processing
 
 Use the built-in SQL editor in the Kinesis Data Analytics application to write a SQL query for processing data in real-time.
+ß
 
 ### Step 7: Create a Kinesis Data Firehose Delivery Stream
 
